@@ -40,3 +40,7 @@ node_modules/
 # Built artifacts
 build/
 dist/
+
+# Local server startup scripts (contain credentials)
+start-server.bat
+start-server-silent.vbs
